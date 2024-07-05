@@ -1,0 +1,12 @@
+.side-text{
+    margin-right:10px;
+    font-size: 20px;
+    margin-top: 10px;
+    font-family: "Roboto";
+}
+.each-container{
+    margin-left: 10px;
+    border:0.2px solid rgb(239, 236, 236);
+}
+.side-navbar{
+}
